@@ -1,0 +1,13 @@
+title: Projects
+
+pages:
+  view: project
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Text
+    type:  textarea
